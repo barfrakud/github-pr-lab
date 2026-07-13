@@ -4,6 +4,13 @@
 
 Verify that all available security updates have been installed.
 
+Examples:
+
+```bash
+sudo dnf check-update
+sudo apt update
+```
+
 ## Firewall
 
 Verify that the host firewall is enabled and correctly configured.
